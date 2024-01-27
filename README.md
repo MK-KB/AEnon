@@ -8,10 +8,11 @@
 
 
 <h2>Introduction</h2>
-
+<p><b>Edit - Separate component step files added.</b></p>
 <p>AEnon is a TKL keyboard inspired by the mounting style of KMAC 2 which consists of top and bottom mount.</p>
 <p>This repository contains the step file and the document for screw taps.</p>
 <p>This is released under CC BY-NC 4.0. Read here: https://creativecommons.org/licenses/by-nc/4.0/deed.en/</p>
+<p>Discord: mk47999</p>
 
 ![Bottom mount](https://github.com/MK-KB/AEnon/assets/26305382/2c29df97-ad4f-43ed-89a0-75cb6411ec63)
 
